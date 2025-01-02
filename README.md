@@ -1,7 +1,8 @@
 # ExcelBot
 An AI tool that generates precise Excel formulas based on your queries, quickly enhancing productivity for complex and simple calculations.
 
-<img width="1552" alt="image" src="https://github.com/user-attachments/assets/3d6dd996-b53b-4739-9edc-46f047f1f5ea">
+<img width="1552" alt="image" src="![Screenshot 2024-09-26 201224](https://github.com/user-attachments/assets/4554f4bd-d109-49eb-8e10-2c489727d950)
+">
 
 ## Deploy
 
