@@ -26,3 +26,5 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+6.The live view of the app:
+LINK-https://excel-gpt-e9tieheysfmpysdyq8ghae.streamlit.app
